@@ -1,6 +1,6 @@
 ---
 title: "Locate"
-guilds: [militia, scouts]
+guilds: [militia, scouts, casino]
 tier: 2
 osp_cost: 20
 prerequisites: []
